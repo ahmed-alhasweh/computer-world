@@ -1,0 +1,2 @@
+# computer-world
+bilgisayar mağazası
